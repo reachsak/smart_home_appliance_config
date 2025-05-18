@@ -7,7 +7,7 @@ This repository provides Python and JavaScript (Node.js) scripts and usage instr
 - **Xiaomi Air Purifier**
 - **Govee Air Humidifier**
 
-The project enables integration and automation of smart home devices using open-source libraries and local network access, providing a customizable alternative to vendor apps.
+![System Overview](./Fig13.jpg)
 
 ---
 
