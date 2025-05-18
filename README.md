@@ -47,7 +47,7 @@ Use the following command format to run the scripts:
 
 #### Python Scripts
 python script_name.py
-# or
+
 python3 script_name.py
 
 
