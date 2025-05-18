@@ -1,1 +1,0 @@
-# smart_home_appliance_config
