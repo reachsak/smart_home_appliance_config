@@ -53,8 +53,10 @@ node humidifier_control.js
 
 ### Yeelight app and MiHome app
 You can also test the xiaomi smart home appliance using the mobile application below
+
 [Yeelight](https://apps.apple.com/us/app/yeelight-classic/id977125608)
-[Yeelight](https://apps.apple.com/us/app/xiaomi-home/id957323480)
+
+[XiaoMi Home](https://apps.apple.com/us/app/xiaomi-home/id957323480)
 
 ### Obtaining tokens for Xiaomi Smart Fan and Smart Air Purifier (if not already existed in the script)
 
