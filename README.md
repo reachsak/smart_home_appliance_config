@@ -7,7 +7,9 @@ This repository provides Python and JavaScript (Node.js) scripts and usage instr
 - **Xiaomi Air Purifier**
 - **Govee Air Humidifier**
 
-![System Overview](./Fig13.jpg)
+<img src="/Fig13.jpg" style="float: left; margin-right: 20px; max-width: 200px;">
+
+
 
 ---
 
