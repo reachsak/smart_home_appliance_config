@@ -26,8 +26,13 @@ This repository provides Python and JavaScript (Node.js) scripts and usage instr
 
 ## 🚀 Getting Started
 
-### 1. Clone the Repository
+### 1. Installing the libraries with Python or Javascript required
 
-```bash
-git clone https://github.com/yourusername/smart-home-appliance-config.git
-cd smart-home-appliance-config
+Make sure to install the correct library for each smart home appliance before running any script.
+
+### 2. Obtaining tokens for Xiaomi Smart Fan and Smart Air Purifier (if not already existed in the script)
+
+Getting Xiaomi Device Tokens
+To use the Xiaomi Smart Fan and Air Purifier, you’ll need the device tokens.
+Use this application to retrieve them:
+[👉 Get_MiHome_devices_token](https://github.com/Maxmudjon/Get_MiHome_devices_token)
