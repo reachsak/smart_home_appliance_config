@@ -13,7 +13,7 @@ This repository provides Python and JavaScript (Node.js) scripts and usage instr
 
 ---
 
-## 📦 Supported Devices & Libraries
+## 📦 Devices & Libraries
 
 | Device                   | Library Used                                                                 |
 |--------------------------|------------------------------------------------------------------------------|
