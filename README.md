@@ -7,18 +7,20 @@ This repository provides Python and JavaScript (Node.js) scripts and usage instr
 - **Xiaomi Air Purifier**
 - **Govee Air Humidifier**
 
-The project enables integration and automation of smart home devices using open-source libraries and local network protocols (LAN mode), offering a customizable and privacy-respecting alternative to vendor apps.
+<img src="/Fig13.jpg" style="float: left; margin-right: 20px; max-width: 200px;">
+
+
 
 ---
 
-## 📦 Supported Devices
+## 📦 Supported Devices & Libraries
 
-| Device                   | Protocol/Method       | Library Used                        |
-|--------------------------|------------------------|--------------------------------------|
-| Xiaomi Yeelight          | LAN protocol (TCP)     | [`python-yeelight`](https://github.com/rytilahti/python-yeelight) |
-| Xiaomi Smart Fan         | miIO protocol          | [`python-miio`](https://github.com/rytilahti/python-miio)         |
-| Xiaomi Air Purifier      | miIO protocol          | [`python-miio`](https://github.com/rytilahti/python-miio)         |
-| Govee Air Humidifier     | Bluetooth Low Energy   | [`govee-led-python`](https://github.com/LaggAt/python-govee-api) or custom BLE library |
+| Device                   | Library Used                                                                 |
+|--------------------------|------------------------------------------------------------------------------|
+| Xiaomi Yeelight          | [`yeelight.io`](https://github.com/tonylin0826/yeelight.io)                 |
+| Xiaomi Smart Fan         | [`python-miio`](https://github.com/rytilahti/python-miio)                   |
+| Xiaomi Air Purifier      | [`python-miio`](https://github.com/rytilahti/python-miio)                   |
+| Govee Air Humidifier     | [`homebridge-govee`](https://github.com/homebridge-plugins/homebridge-govee?tab=readme-ov-file) |
 
 ---
 
