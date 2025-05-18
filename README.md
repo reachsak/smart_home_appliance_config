@@ -36,3 +36,24 @@ Getting Xiaomi Device Tokens
 To use the Xiaomi Smart Fan and Air Purifier, you’ll need the device tokens.
 Use this application to retrieve them:
 [👉 Get_MiHome_devices_token](https://github.com/Maxmudjon/Get_MiHome_devices_token)
+
+
+
+### 3. Running the Scripts
+
+You can run and test each smart home appliance using the provided scripts. These scripts include examples such as turning the devices on/off or setting them to specific values (e.g., brightness, speed, or mode).
+
+Use the following command format to run the scripts:
+
+#### Python Scripts
+python script_name.py
+# or
+python3 script_name.py
+
+
+#### Node.js Scripts
+node humidifier_control.js
+
+
+
+
