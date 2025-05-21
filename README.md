@@ -11,16 +11,15 @@ This repository provides Python and JavaScript (Node.js) scripts and usage instr
 
 
 
----
 
 ## 📦 Devices & Libraries
 
-| Device                   | Library Used                                                                 |
-|--------------------------|------------------------------------------------------------------------------|
-| Xiaomi Yeelight          | [`yeelight.io`](https://github.com/tonylin0826/yeelight.io)                 |
-| Xiaomi Smart Fan         | [`python-miio`](https://github.com/rytilahti/python-miio)                   |
-| Xiaomi Air Purifier      | [`python-miio`](https://github.com/rytilahti/python-miio)                   |
-| Govee Air Humidifier     | [`homebridge-govee`](https://github.com/homebridge-plugins/homebridge-govee?tab=readme-ov-file) |
+| Device Name                             | Library Used                                                                                    | Model Number / Series  | Product Detail & Purchase Link                                                                                                           |
+| --------------------------------------- | ----------------------------------------------------------------------------------------------- | ---------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| **YEELIGHT Smart WiFi Light Bulb 1S**   | [`yeelight.io`](https://github.com/tonylin0826/yeelight.io)                                     | 1S (Dimmable White)    | [Amazon - YEELIGHT Smart WiFi Light Bulb 1S](https://www.amazon.com/dp/B07ZHJQJKC?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_1)          |
+| **Xiaomi Mi Smart Standing Fan 2 Lite** | [`python-miio`](https://github.com/rytilahti/python-miio)                                       | zhimi-za3              | [Amazon - Xiaomi Mi Smart Standing Fan 2 Lite](https://www.amazon.com/Xiaomi-Standing-Portable-Powerful-Airflow/dp/B095LLH5RN/)          |
+| **Xiaomi Smart Air Purifier 4 Compact** | [`python-miio`](https://github.com/rytilahti/python-miio)                                       | Air Purifier 4 Compact | [Amazon - Xiaomi Smart Air Purifier 4 Compact](https://www.amazon.com/dp/B0B58YSWWW)                                                     |
+| **Govee Smart Air Humidifier**          | [`homebridge-govee`](https://github.com/homebridge-plugins/homebridge-govee?tab=readme-ov-file) | H7141 (Bedroom Model)  | [Amazon - Govee Smart Air Humidifier](https://www.amazon.com/Govee-Humidifiers-Bedroom-Essential-Humidifier/dp/B098PBQP1K/)              |
 
 ---
 
